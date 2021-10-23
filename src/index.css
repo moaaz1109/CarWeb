@@ -1,0 +1,52 @@
+:root {
+    
+    --orange:rgb(51, 53, 53);
+    --bl:rgba(20, 24, 23, 0.303);
+    --black:rgb(33, 31, 31);
+    --red:rgba(255, 0, 0, 0.802);
+    --blue:rgb(51, 53, 53);
+    --bg:rgb(253, 173, 0);
+    --bg1:rgba(175, 156, 156, 0.597);
+    --bg2:rgba(199, 168, 77, 0.659);
+    --bg3:rgb(182, 166, 97);
+    --reg:rgb(126, 84, 84);
+    --Lo:rgb(199, 199, 199);
+    --wh:rgba(255, 255, 255, 0.611);
+    --cir:rgba(99, 99, 99, 0.159);
+    --whi:rgb(12, 51, 182);
+    --col:rgba(44, 157, 197, 0.926);
+    --pro:rgba(248, 197, 101, 0.796);
+    --sl:rgba(112, 154, 158, 0.666);
+    --slb:rgba(208, 209, 207, 0.939);
+    --tit:rgba(251, 255, 0, 0.926);
+    --bgDis:rgba(174, 247, 219, 0.405);
+    --white:white;
+    
+    --black:rgba(65, 61, 61, 0.775);
+    --in:rgba(203, 233, 204, 0.666);
+    --org:rgba(252, 251, 250, 0.316);
+    --pp:rgb(255, 255, 255);
+    --nn:rgb(75, 77, 75);
+    --bl:rgb(255, 255, 255);
+    --red:rgb(255, 255, 255);
+    --yel:rgb(255, 254, 254);
+    --soc:rgba(221, 223, 228, 0.796);
+    --ic:rgb(33, 8, 255);
+    --se:rgb(243, 238, 238);
+    --wh:rgb(232, 229, 229);
+    --bor:rgb(218, 215, 215);
+  }
+
+
+  .btn-nav{
+    font-size: 28px;
+    color:white;
+    background-color:rgb(41, 41, 41);
+    border:2px solid white;
+    border-radius:5px;
+    cursor: pointer;
+  }
+ 
+
+ 
+  
